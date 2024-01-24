@@ -1,0 +1,185 @@
+.container {
+    position: relative;
+    width: 90%;
+    max-width: 1920px;
+    height: auto;
+    margin: 20px auto;
+    border: 1px solid red;
+    padding: 10px;
+    background-color: white;
+    margin-left: 70px;
+    margin-top: 30px;
+
+}
+
+.container-title {
+    width: 99%;
+    height: auto;
+    border: 1px solid red;
+    margin: 5px;
+}
+
+.container-description {
+    width: 73%;
+    height: auto;
+    border: 1px solid red;
+    margin: 5px;
+    background-color: whitesmoke;
+}
+
+.container-content {
+    width: 99%;
+    height: auto;
+    border: 1px solid red;
+    margin: 5px;
+}
+
+.project-box {
+    width: 99%;
+    height: auto;
+    border: 1px solid red;
+    margin: 5px;
+}
+
+.work-description {
+    font-size: 22px;
+    text-align: justify;
+    padding: 0px 10px;
+    background-color: whitesmoke;
+}
+
+.work-description-list {
+    font-size: 22px;
+}
+
+
+/* Event Brochures Container */
+
+#box1 {
+    width: 99%;
+    height: auto;
+    min-height: 400px;
+    border: 1px solid red;
+    margin: 5px;
+    display: inline-block;
+
+}
+
+#box2 {
+    width: 99%;
+    height: auto;
+    min-height: 400px;
+    border: 1px solid red;
+    margin: 5px;
+
+}
+
+.project1 {
+    height: 295px;
+    width: 440px;
+    background-color: antiquewhite;
+    border: 1px solid blue;
+    margin: 5px;
+    display: inline-block;
+    box-shadow: 2px 2px grey;    
+}
+
+.project1:hover {
+    height: 295px;
+    width: 440px;
+    background-color: antiquewhite;
+    border: 1px solid blue;
+    margin: 5px;
+    display: inline-block;
+    position: relative;
+    bottom: 2px;
+    right: 2px;
+    box-shadow: 5px 5px grey; 
+}
+
+.project2 {
+    height: 445px;
+    width: 280px;
+    background-color: antiquewhite;
+    border: 1px solid blue;
+    margin: 5px;
+    display: inline-block;
+    box-shadow: 2px 2px grey;
+
+}
+
+.project2:hover {
+    height: 445px;
+    width: 280px;
+    background-color: antiquewhite;
+    border: 1px solid blue;
+    margin: 5px;
+    display: inline-block;
+    position: relative;
+    bottom: 2px;
+    right: 2px;
+    box-shadow: 5px 5px grey;
+} 
+
+.brochure1 {
+    max-height: auto;
+    max-width: 99.8%;
+    overflow: hidden;
+    border: 1px solid red;
+    margin: 8px 0px;
+
+}
+
+
+
+.brochure2 {
+    max-height: auto;
+    max-width: 99.8%;
+    margin: 5px 0px;
+    overflow: hidden;
+    border: 1px solid red;
+}
+
+
+.event-link {
+    display: block;
+    margin: 3px auto;
+    text-align: center;
+}
+
+.event-link1 {
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+}
+/* Book Designs Container */
+
+#box3   {
+    width: 99%;
+    height: auto;
+    min-height: 420px;
+    border: 1px solid red;
+    margin: 5px;
+}
+
+.book1 {
+    height: 390px;
+    max-width: auto;
+    overflow: hidden;
+    box-shadow: 2px 2px grey;
+    margin: 5px 5px;
+}
+
+.book1:hover {
+    height: 390px;
+    width: auto;
+    background-color: antiquewhite;
+    border: 1px solid blue;
+    margin: 5px;
+    display: inline-block;
+    position: relative;
+    bottom: 2px;
+    right: 2px;
+    box-shadow: 5px 5px grey;
+} 
+/* Logos Container */

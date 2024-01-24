@@ -1,0 +1,194 @@
+body {
+    height: auto;
+}
+
+.container {
+    width: 99%;
+    height: auto;
+    border: 1px solid red;
+    margin: 5px;
+}
+
+/* Projects Contaienr */
+#projects-container {
+    width: 99%;
+    height: auto;
+    border: 1px solid red;
+    margin: 5px;
+}
+
+h1 {
+    width: 99%;
+    height: auto;
+    border: 1px solid red;
+    margin: 5px;
+}
+
+
+#box1 {
+    width: 370px;
+    height: 500px;
+    background-color: white;
+    border: 1px solid red;
+    margin: 5px;
+    display: inline-block;
+    margin: 15px;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+#box2 {
+    width: 370px;
+    height: 500px;
+    background-color: white;
+    border: 1px solid red;
+    margin: 5px;
+    display: inline-block;
+    margin: 15px;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 10px;
+
+}
+
+#box3 {
+    width: 370px;
+    height: 500px;
+    background-color: white;
+    border: 1px solid red;
+    margin: 5px;
+    display: inline-block;
+    margin: 15px;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 10px;
+
+}
+
+#box1:hover,
+#box2:hover,
+#box3:hover {
+    position: relative;
+    right: 10px;
+    bottom: 10px;
+    width: 370px;
+    height: 500px;
+    background: rgba(0, 81, 255, 0.1);
+    margin: 15px;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 10px 10px grey;
+    background-color: white;
+}
+
+
+.event-description {
+    text-align: justify;
+    margin: 5px 15px;
+    border: 1px solid blue;
+    height: 200px;
+}
+
+.event-title {
+    text-align: center;
+    margin: 5px;
+}
+
+.event-image {
+    display: block;
+    margin: 0 auto;
+    width: 95%;
+    box-shadow: 2px;
+    border-radius: 10%;
+}
+
+
+/* Free-Lance Contaienr */
+#projects-container2 {
+    width: 99%;
+    height: auto;
+    border: 1px solid red;
+    margin: 5px;
+}
+
+.freelance {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    margin: 10px;
+    border-radius: 0px;
+    box-shadow: 1px 1px grey;
+    background-color: white;
+    border-radius: 3%;
+    border: 1px solid red;
+}
+
+.freelanceimage {
+    height: 256px;
+    width: 356px;
+}
+
+img .freelance {
+    border-radius: 3%;
+}
+
+.freelance:hover {
+    position: relative;
+    right: 10px;
+    bottom: 10px;
+    box-shadow: 10px 10px grey;
+    background: rgba(0, 81, 255, 0.1);
+    background-color: white;
+
+}
+
+.freelancetext {
+    margin: 0;
+    padding: 2;
+    width: 356px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+/* Footer */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    text-decoration: none;
+    border: solid 1px red;
+    margin: 5px;
+    border-radius: 50%;
+  }
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+
+
+footer {
+    background-color: rgb(246, 229, 209);
+    padding-left: 88px;
+    padding-top: 10px;
+    position: relative;
+    bottom: 0%;
+    margin-top: 150px;
+}
+
+.contact {
+    margin: 0px;
+    padding: 0px;
+}
+
